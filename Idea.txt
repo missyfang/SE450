@@ -1,0 +1,5 @@
+Concert recommender based on spotify data and location 
+playlist builder bases on spotify data and user input 
+group aux, the order of the aux depends on votes from the group 
+spotify history 
+playlist thru time generator 
